@@ -263,7 +263,6 @@
 									<workingDirectory>${nodejs.directory}</workingDirectory>
 									<executable>${nodejs.directory}/node</executable>
 									<arguments>
-										<argument>node_modules/npm/bin/npm-cli.js</argument>
 										<argument>install</argument>
 										<argument>less</argument>
 									</arguments>
